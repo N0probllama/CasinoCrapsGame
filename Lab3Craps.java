@@ -20,7 +20,7 @@ public class Lab3Craps {
         // Generate random number between 1 and 6 with the following.
         // Note to self: starts at 5, counting 0, so the +1 adds one more numerical count value to make 6.
         dice1 = (int)(Math.random()*6)+1; 
-        dice2 = (int)(Math.random()*6)+1;
+        dice2 = (int)(Math.random()*6)+1; 
 
         //New variable for the sum of dice values.
         int diceSum = (dice1 + dice2);
