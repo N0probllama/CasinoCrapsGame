@@ -1,14 +1,13 @@
 
 /*
- * 300270674
- * Crystal Mahlmann - Section 004
  * 
- * Lab 3 - Casino Craps game
+ * N0probllama
+ * 
+ * Casino Craps game
  * September 27th - September 2nd, 2022.
  * 
  * This program simulates a simple game of Craps.
- * Please gamble responsibly. If you need help with addiction gambling, please contact
- * the 24-hour, toll-free Gambling Support Line in the province of BC: 1-888-795-6111
+ * Please gamble responsibly. 
  */
 
 public class Lab3Craps {
