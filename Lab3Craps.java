@@ -6,7 +6,7 @@
  * Casino Craps game
  * September 27th - September 2nd, 2022.
  * 
- * This program simulates a simple game of ps.
+ * This program simulates a simple game of Craps.
  * Please gamble responsibly. 
  */
 
