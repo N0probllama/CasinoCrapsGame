@@ -3,14 +3,14 @@
  * 
  * N0probllama
  * 
- * Casino Craps game
+ * Casino ps game
  * September 27th - September 2nd, 2022.
  * 
- * This program simulates a simple game of Craps.
+ * This program simulates a simple game of ps.
  * Please gamble responsibly. 
  */
 
-public class Lab3Craps {
+public class Lab3ps {
     public static void main(String []args) {
 
         // Variables for two dice.
